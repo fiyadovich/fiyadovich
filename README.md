@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Firas 👋
+Cybersecurity student at APU × De Montfort University | Aspiring GRC Analyst  
+Focused on GRC, risk management, and security governance.
 
-<!--
-**fiyadovich/fiyadovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- BSc Cybersecurity — Asia Pacific University × De Montfort University (UK)
+- Year 2 | Expected Graduation: 2028
 
-Here are some ideas to get you started:
+## 📜 Certifications
+> Verified badges on [Credly](https://www.credly.com/users/fiyadovich)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cisco Introduction to Cybersecurity
+- Cisco Exploring Networking with Cisco Packet Tracer
+- Cisco Network Addressing and Basic Troubleshooting
+- ISC2 Candidate *(valid until May 2027)*
+
+## 💻 Hands-on Practice
+- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) — 27+ rooms completed
+
+## 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
+- [Credly](https://www.credly.com/users/fiyadovich)
+- [TryHackMe](https://tryhackme.com/p/FirasYasin)
