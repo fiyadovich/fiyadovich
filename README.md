@@ -15,7 +15,7 @@ Focused on GRC, risk management, and security governance.
 - ISC2 Candidate *(valid until May 2027)*
 
 ## 💻 Hands-on Practice
-- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) — 27+ rooms completed
+- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) — 30+ rooms completed
 
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
