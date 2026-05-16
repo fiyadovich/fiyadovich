@@ -3,7 +3,7 @@ Cybersecurity student at APU × De Montfort University | Aspiring GRC Analyst
 Focused on GRC, risk management, and security governance.
 
 ## 🎓 Education
-- BSc Cybersecurity — Asia Pacific University × De Montfort University (UK)
+- BSc Cybersecurity @ Asia Pacific University × De Montfort University (UK)
 - Year 2 | Expected Graduation: 2028
 
 ## 📜 Certifications
@@ -15,7 +15,7 @@ Focused on GRC, risk management, and security governance.
 - ISC2 Candidate *(valid until May 2027)*
 
 ## 💻 Hands-on Practice
-- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) — 30+ rooms completed
+- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 30+ rooms completed
 
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
