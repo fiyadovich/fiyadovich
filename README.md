@@ -1,4 +1,4 @@
-# Hi, I'm Firas 👋
+# Hi, I'm Firas Yasin 👋
 Cybersecurity student at APU × De Montfort University | Aspiring GRC Analyst  
 Focused on GRC, risk management, and security governance.
 
