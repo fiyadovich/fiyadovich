@@ -13,6 +13,7 @@ Focused on GRC, risk management, and security governance.
 - Cisco Exploring Networking with Cisco Packet Tracer
 - Cisco Network Addressing and Basic Troubleshooting
 - ISC2 Candidate *(valid until May 2027)*
+- Cisco Computer Hardware Basics
 
 ## 💻 Hands-on Practice
 - TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 100+ rooms completed
