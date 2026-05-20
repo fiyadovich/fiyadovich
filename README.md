@@ -11,7 +11,6 @@ Focused on GRC, risk management, and security governance.
 
 - Cisco Introduction to Cybersecurity
 - Cisco Exploring Networking with Cisco Packet Tracer
-- Cisco Network Addressing and Basic Troubleshooting
 - ISC2 Candidate *(valid until May 2027)*
 - Cisco Computer Hardware Basics
 - IBM Cybersecurity Fundamentals
