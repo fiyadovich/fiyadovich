@@ -16,7 +16,7 @@ Focused on GRC, risk management, and security governance.
 - Cisco Computer Hardware Basics
 
 ## 💻 Hands-on Practice
-- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 100+ rooms completed
+- TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 200+ rooms completed
 
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
