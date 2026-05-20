@@ -14,6 +14,7 @@ Focused on GRC, risk management, and security governance.
 - Cisco Network Addressing and Basic Troubleshooting
 - ISC2 Candidate *(valid until May 2027)*
 - Cisco Computer Hardware Basics
+- IBM Cybersecurity Fundamentals
 
 ## 💻 Hands-on Practice
 - TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 200+ rooms completed
