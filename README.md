@@ -18,6 +18,13 @@ Focused on GRC, risk management, and security governance.
 ## 💻 Hands-on Practice
 - TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 200+ rooms completed
 
+## 📁 GRC Projects
+- [TryHackMe Writeups](https://github.com/fiyadovich/grc-projects/tree/main/tryhackme-writeups) — Room writeups covering SOC, threat intel, governance, and security fundamentals
+- [Risk Assessments](https://github.com/fiyadovich/grc-projects/tree/main/risk-assessments) — Mock risk assessments for fictional organisations
+- [Security Policies](https://github.com/fiyadovich/grc-projects/tree/main/security-policies) — Sample security policies and governance documents
+- [Compliance Frameworks](https://github.com/fiyadovich/grc-projects/tree/main/compliance-frameworks) — NIST CSF and ISO 27001 mapping exercises
+- [Incident Response](https://github.com/fiyadovich/grc-projects/tree/main/incident-response) — Incident response plans and playbooks
+
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/fiyadovich/)
 - [Credly](https://www.credly.com/users/fiyadovich)
