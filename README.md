@@ -16,6 +16,7 @@ Focused on GRC, risk management, and security governance.
 - IBM Cybersecurity Fundamentals
 - Cisco Networking Basics
 - IBM Governance, Risk, Compliance, and Data Privacy
+- IBM Vulnerability Management
 
 ## 💻 Hands-on Practice
 - TryHackMe: [FirasYasin](https://tryhackme.com/p/FirasYasin) , 200+ rooms completed
